@@ -1,2 +1,3 @@
 # doom-fire
-Criação do algorítimo do fogo do doom em HTML/JS
+
+An algorithm using HTML/JS to simulate fire element from DOOM game
